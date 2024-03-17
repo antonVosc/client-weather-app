@@ -1,5 +1,7 @@
 # How to run client-weather-app
 
+This is a client side. You will also need a server side (https://github.com/antonVosc/server-weather-app)
+
 STEP 1: Download the repo:
 ```
 git clone https://github.com/antonVosc/client-weather-app.git
